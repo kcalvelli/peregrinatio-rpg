@@ -23,4 +23,5 @@
 ## Inventory Slots – 8
 -  
 
+![Navigator](../assets/images/Navigator.png)
 ✠ *“By tide and star, I guide the fellowship.”*

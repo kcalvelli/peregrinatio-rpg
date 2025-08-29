@@ -23,4 +23,6 @@
 ## Inventory Slots – 7
 -  
 
+![Illuminator](../assets/images/Illuminator.png)
+
 ✠ *“By ink and light, I guard memory and vision.”*

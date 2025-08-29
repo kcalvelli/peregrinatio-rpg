@@ -23,4 +23,6 @@
 ## Inventory Slots – 10
 -  
 
+![Knight](../assets/images/Knight.png)
+
 ✠ *“By oath and by hound, I defend the weak.”*
