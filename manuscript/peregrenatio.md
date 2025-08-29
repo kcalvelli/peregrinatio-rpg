@@ -767,97 +767,97 @@ Thus the gathering becomes story, not ledger.
 
 ✠ *So is inventory kept, not as dry account, but as record of Providence. The fellowship bears wood and stone, bread and ink, relic and memory. To carry less is to travel lighter; to carry more is to bear the weight of the world. May each pilgrim discern wisely what to take upon the road.*  
 
-- # Liber Decimus – De Missionibus  
+# Liber Decimus – De Missionibus  
 
-  *On the Missions Themselves*  
+*On the Missions Themselves*  
 
-  ✠ A mission is not a mere venture, but a chapter in the pilgrimage of the fellowship. Just as the Psalms weave lament, labor, trial, and praise into a single song, so each mission weaves sorrow, toil, testing, and reward into a living story.  
+✠ A mission is not a mere venture, but a chapter in the pilgrimage of the fellowship. Just as the Psalms weave lament, labor, trial, and praise into a single song, so each mission weaves sorrow, toil, testing, and reward into a living story.  
 
-  ✠ The mission is the measure of play. It gives form to wandering, rhythm to choice, and memory to action. Through it, Faith, Hope, and Charity are tested, deepened, or diminished.  
+✠ The mission is the measure of play. It gives form to wandering, rhythm to choice, and memory to action. Through it, Faith, Hope, and Charity are tested, deepened, or diminished.  
 
-  ---
+---
 
-  ## The Shape of a Mission  
+## The Shape of a Mission  
 
-  Every mission follows the sacred order, like verses of a hymn:  
+Every mission follows the sacred order, like verses of a hymn:  
 
-  1. **Aftermath and Assessment**  
-     ✠ Begin in the shadow of loss. A village lies broken, food is scarce, raiders linger, a relic is stolen, or despair has spread.  
-     ✠ The Narrator names what is imperiled: food, shelter, memory, or the spirit of the people.  
-     ✠ Players describe their first responses: grief, prayer, planning, or defiance.  
+1. **Aftermath and Assessment**  
+   ✠ Begin in the shadow of loss. A village lies broken, food is scarce, raiders linger, a relic is stolen, or despair has spread.  
+   ✠ The Narrator names what is imperiled: food, shelter, memory, or the spirit of the people.  
+   ✠ Players describe their first responses: grief, prayer, planning, or defiance.  
 
-  2. **Tasks and Social Conflicts**  
-     ✠ Pilgrims labor to heal, to build, to reconcile, to persuade.  
-     ✠ Tasks are measured by Progress Tracks: each success fills a step, each failure may lengthen the track or impose setback.  
-     ✠ Social conflicts call for words of Hope or Charity, and sometimes for Conversion attempts.  
-     ✠ Role-play: *“I will lift stone upon stone,”* says the Monastic. *“I will speak words to calm their anger,”* says the Illuminator.  
+2. **Tasks and Social Conflicts**  
+   ✠ Pilgrims labor to heal, to build, to reconcile, to persuade.  
+   ✠ Tasks are measured by Progress Tracks: each success fills a step, each failure may lengthen the track or impose setback.  
+   ✠ Social conflicts call for words of Hope or Charity, and sometimes for Conversion attempts.  
+   ✠ Role-play: *“I will lift stone upon stone,”* says the Monastic. *“I will speak words to calm their anger,”* says the Illuminator.  
 
-  3. **The Community Challenge**  
-     ✠ Here the company faces the deeper question: Shall the people stay or flee? Forgive or retaliate? Share or hoard? Submit or resist?  
-     ✠ The Narrator frames the choice; the players speak, argue, persuade.  
-     ✠ The outcome may shape not only this mission but all to come.  
-     ✠ Role-play: *“Stay, for the Lord is our fortress.”* *“No — flee, lest our children perish.”*  
+3. **The Community Challenge**  
+   ✠ Here the company faces the deeper question: Shall the people stay or flee? Forgive or retaliate? Share or hoard? Submit or resist?  
+   ✠ The Narrator frames the choice; the players speak, argue, persuade.  
+   ✠ The outcome may shape not only this mission but all to come.  
+   ✠ Role-play: *“Stay, for the Lord is our fortress.”* *“No — flee, lest our children perish.”*  
 
-  4. **The Climax**  
-     ✠ Every mission ends with trial. The storm breaks, the raiders strike, betrayal is revealed, or a spirit rises.  
-     ✠ The Measure is high (13–16), calling forth courage and faith.  
-     ✠ Role-play: *“I will stand at the gate, though they strike me down.”* *“I cry out to the saints: aid us!”*  
+4. **The Climax**  
+   ✠ Every mission ends with trial. The storm breaks, the raiders strike, betrayal is revealed, or a spirit rises.  
+   ✠ The Measure is high (13–16), calling forth courage and faith.  
+   ✠ Role-play: *“I will stand at the gate, though they strike me down.”* *“I cry out to the saints: aid us!”*  
 
-  5. **Resolution**  
-     ✠ After the storm, peace or sorrow follows.  
-     ✠ Each character describes rest: prayer, vigil, feast, song.  
-     ✠ Roll once on the Consequence table, and once on the Reward table.  
-     ✠ Record shifts of Faith, Hope, and Charity, and changes to community or inventory.  
-     ✠ The chapter is closed, and another awaits.  
+5. **Resolution**  
+   ✠ After the storm, peace or sorrow follows.  
+   ✠ Each character describes rest: prayer, vigil, feast, song.  
+   ✠ Roll once on the Consequence table, and once on the Reward table.  
+   ✠ Record shifts of Faith, Hope, and Charity, and changes to community or inventory.  
+   ✠ The chapter is closed, and another awaits.  
 
-  ---
+---
 
-  ## The Purpose of Missions  
+## The Purpose of Missions  
 
-  ✠ Each mission binds the threats of the world to the faithful labor of the pilgrims. Where raiders burn, pilgrims rebuild. Where famine strikes, pilgrims forage and share. Where despair spreads, pilgrims console and reconcile. Where demons rise, pilgrims pray and banish.  
+✠ Each mission binds the threats of the world to the faithful labor of the pilgrims. Where raiders burn, pilgrims rebuild. Where famine strikes, pilgrims forage and share. Where despair spreads, pilgrims console and reconcile. Where demons rise, pilgrims pray and banish.  
 
-  ✠ The Narrator should tie every mission to both peril and grace. A wall may need repair, but the greater need may be healing division. A relic may be recovered, but the greater treasure is renewed Faith.  
+✠ The Narrator should tie every mission to both peril and grace. A wall may need repair, but the greater need may be healing division. A relic may be recovered, but the greater treasure is renewed Faith.  
 
-  ✠ Missions are not chores, but sacred encounters, where the worldly need becomes a parable of the spiritual journey.  
+✠ Missions are not chores, but sacred encounters, where the worldly need becomes a parable of the spiritual journey.  
 
-  ---
+---
 
-  ## Examples of Mission Seeds  
+## Examples of Mission Seeds  
 
-  ✠ **Relics to Recover** — A psalter stolen by raiders, an icon hidden in a marsh, a saint’s relic lost in fire.  
-  ✠ **Manuscripts to Copy** — Pages fading, torn, or water-damaged, needing to be preserved.  
-  ✠ **Walls to Rebuild** — Cloister, chapel, or village palisade. A task of stone and wood, but also of courage.  
-  ✠ **Peace to Broker** — Between chieftains, between families, between those tempted to vengeance and those pleading for mercy.  
-  ✠ **Pilgrimage to Undertake** — Carrying relics to a new home, seeking sanctuary in another land, or journeying to a holy well.  
-  ✠ **Supernatural Threats** — A demon-haunted ford, a keening banshee, or a shrine corrupted by idols.  
+✠ **Relics to Recover** — A psalter stolen by raiders, an icon hidden in a marsh, a saint’s relic lost in fire.  
+✠ **Manuscripts to Copy** — Pages fading, torn, or water-damaged, needing to be preserved.  
+✠ **Walls to Rebuild** — Cloister, chapel, or village palisade. A task of stone and wood, but also of courage.  
+✠ **Peace to Broker** — Between chieftains, between families, between those tempted to vengeance and those pleading for mercy.  
+✠ **Pilgrimage to Undertake** — Carrying relics to a new home, seeking sanctuary in another land, or journeying to a holy well.  
+✠ **Supernatural Threats** — A demon-haunted ford, a keening banshee, or a shrine corrupted by idols.  
 
-  ---
+---
 
-  ## The Narrator’s Charge  
+## The Narrator’s Charge  
 
-  ✠ The Narrator is both chronicler and witness. In missions, they weave peril and possibility, so that every choice matters. Their task is not to triumph over players, but to shape the stage where Faith, Hope, and Charity may be tested.  
+✠ The Narrator is both chronicler and witness. In missions, they weave peril and possibility, so that every choice matters. Their task is not to triumph over players, but to shape the stage where Faith, Hope, and Charity may be tested.  
 
-  ✠ The Narrator must always ask:  
+✠ The Narrator must always ask:  
 
-  - What is at stake?  
-  - What labors are required?  
-  - What division must be healed?  
-  - What trial will close the tale?  
+- What is at stake?  
+- What labors are required?  
+- What division must be healed?  
+- What trial will close the tale?  
 
-  ---
+---
 
-  ## Sample Missions in the Appendices  
+## Sample Missions in the Appendices  
 
-  Two missions are given in full in the Appendices, as exempla to guide play:  
+Two missions are given in full in the Appendices, as exempla to guide play:  
 
-  - **Rebuilding the Village** — The aftermath of raid and ruin; food, shelter, and hope must be restored.  
-  - **The Lost Relic (The Morrígan’s Shade)** — A mission of peril and faith: the recovery of a relic haunted by a demon of battle and fate.  
+- **Rebuilding the Village** — The aftermath of raid and ruin; food, shelter, and hope must be restored.  
+- **The Lost Relic (The Morrígan’s Shade)** — A mission of peril and faith: the recovery of a relic haunted by a demon of battle and fate.  
 
-  ✠ These serve as patterns, like illuminations in a manuscript, that others may follow and adapt. The Narrator may weave new missions after their likeness, adding trial, blessing, and memory.  
+✠ These serve as patterns, like illuminations in a manuscript, that others may follow and adapt. The Narrator may weave new missions after their likeness, adding trial, blessing, and memory.  
 
-  ---
+---
 
-  ✠ *So is the order of missions revealed: aftermath, labor, challenge, climax, and rest. Each is a chapter in the fellowship’s living hagiography. Let the players speak as pilgrims, act with Faith, Hope, and Charity, and so write their own book of exile and return.*  
+✠ *So is the order of missions revealed: aftermath, labor, challenge, climax, and rest. Each is a chapter in the fellowship’s living hagiography. Let the players speak as pilgrims, act with Faith, Hope, and Charity, and so write their own book of exile and return.*  
 
 
 ---
