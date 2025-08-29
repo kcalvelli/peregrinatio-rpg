@@ -6,7 +6,7 @@ In nomine Domini nostri Iesu Christi
 A narrative, Orthodox Christian-themed tabletop RPG set in Ireland, AD 870, where Faith, Hope, and Charity guide every roll.
 
 ---
-**[PAGE BREAK]**
+
 ---
 
 # Preface
@@ -18,7 +18,7 @@ May this book be a blessing to all who read and play, and may your journey be gu
 This is not only a game, but a pilgrimage in story: a way to remember that we are travelers seeking a greater home.
 
 ---
-**[PAGE BREAK]**
+
 ---
 
 # Table of Contents
@@ -38,7 +38,7 @@ This is not only a game, but a pilgrimage in story: a way to remember that we ar
 - Colophon
 
 ---
-**[PAGE BREAK]**
+
 ---
 
 # Introduction
@@ -59,7 +59,7 @@ The game is:
 You will need: a narrator, 2 to 4 players, one d20, and paper or character sheets.
 
 ---
-**[PAGE BREAK]**
+
 ---
 
 # Chapter 1 - The Core of the Game
@@ -92,7 +92,7 @@ Virtue is wealth more precious than gold.
 Once per mission, the party may call on the saints. See the Appendix for the d20 Intercession table with short invocations and effects. Intercession is scene-shaping: guarantee a success, cancel a disaster, bring aid, or restore unity and hope.
 
 ---
-**[PAGE BREAK]**
+
 ---
 
 
@@ -120,7 +120,7 @@ Hound
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 ## Navigator (Companion: Seal)
@@ -141,7 +141,7 @@ Seal
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 ## Monastic (Companion: Bear)
@@ -162,7 +162,7 @@ Bear
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 ## Illuminator (Companion: Cat)
@@ -183,7 +183,7 @@ Cat
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 # Chapter 3 - Scene Types
@@ -219,7 +219,7 @@ Not eligible: animal attacks and all supernatural foes cannot convert.
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 # Chapter 4 - Consequences and Rewards
@@ -269,7 +269,7 @@ Choose one:
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 # Chapter 5 - Mission Flow
@@ -282,7 +282,7 @@ Choose one:
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 # Chapter 6 - Tracking the Journey
@@ -293,7 +293,7 @@ Choose one:
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 # Chapter 7 - Bestiary and Adversaries
@@ -347,7 +347,7 @@ Rule: Supernatural foes cannot be overcome by mundane weapons alone. At least on
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 # Chapter 8 - Examples of Play
@@ -406,7 +406,7 @@ Result: The Puca shatters to mist and flees. Lesson: Faith-based actions banish;
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 # Chapter 9 - Inventory and Supplies
@@ -425,7 +425,7 @@ Example: Navigator rolls 3 Wood; Monastic salvages 2 Stone; Illuminator secures 
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 # Chapter 10 - Missions
@@ -445,7 +445,7 @@ The Appendices include two sample missions in full:
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 # Appendices
@@ -462,7 +462,7 @@ The Appendices include two sample missions in full:
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 ## Historical Note - Peregrinatio pro Christo
@@ -472,7 +472,7 @@ In game terms: travel light, trust Providence, face peril with prayer. That is t
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 ## Intercession of the Saints - d20 Table with Short Prayers
@@ -504,7 +504,7 @@ Shortened adaptations for play (not full liturgical prayers). Read aloud or name
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 ## Sample Mission - Rebuilding the Village
@@ -529,7 +529,7 @@ Hooks: Travelers come seeking blessings. Raiders regroup. A fleeing villager ret
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 ## Sample Mission - The Lost Relic (The Morrigan)
@@ -555,7 +555,7 @@ Hooks: A monastery library needs defense. Other pagan powers are stirring. Crow 
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 ## Quick Reference Tables
@@ -571,7 +571,7 @@ Hooks: A monastery library needs defense. Other pagan powers are stirring. Crow 
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 ## Handouts (Printable)
@@ -661,7 +661,7 @@ Total Slots: ______
 
 
 ---
-**[PAGE BREAK]**
+
 
 
 # Colophon
