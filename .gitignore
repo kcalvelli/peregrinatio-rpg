@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Build artifacts / exports
+dist/
+build/
+out/
+*.pdf
+*.rtf
+*.docx
+*.zip
+
+# Node/pip (if used later)
+node_modules/
+venv/
+.env
