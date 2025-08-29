@@ -1,36 +1,26 @@
-# Character Sheet – Knight (Inventory 10)
+# Character Sheet – Knight
 
----
+✠ Defender, oath-keeper, rallying presence. Companion: Hound.
 
-**Name:** ____________________  
-**Companion:** Hound
+## Virtues
+- Faith:  
+- Hope:  
+- Charity:  
 
----
+## Abilities
+- **Shield Wall (Hope)** – Protect ally; next enemy strike fails.  
+- **Cleave (Faith)** – Remove 1 Step; if Measure beaten by 5+, remove 2 Steps.  
+- **Command Presence (Hope)** – Rally ally; they regain +1 Hope.  
+- **Sworn Oath (Faith)** – Bind vow; may attempt Conversion.  
 
-**Virtues:**  
-Faith  [ ] 0 [ ] 1 [ ] 2 [ ] 3 ( [ ] 4 )  
-Hope  [ ] 0 [ ] 1 [ ] 2 [ ] 3 ( [ ] 4 )  
-Charity [ ] 0 [ ] 1 [ ] 2 [ ] 3 ( [ ] 4 )
+## Companion – Hound
+- Bite (combat): Remove 1 Step, once per scene.  
+- Keen Senses (non-combat): Auto-find hidden threats.  
 
----
+## Wounds
+- [ ] [ ] [ ]  
 
-**Abilities:**  
-- Shield Wall  
-- Cleave  
-- Command Presence  
-- Sworn Oath (conversion-capable)
+## Inventory Slots – 10
+-  
 
----
-
-**Companion Abilities:**  
-- Bite (remove 1 step, once per scene)  
-- Keen Senses (auto-find threats)
-
----
-
-**Wounds:** [ ] [ ] [ ]  
-**Notes or Scars:** ________________________________________
-
----
-
-**Inventory (10):** ________________________________________
+✠ *“By oath and by hound, I defend the weak.”*

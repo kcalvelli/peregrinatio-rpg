@@ -1,36 +1,26 @@
-# Character Sheet – Monastic (Inventory 9, plus 3 with Bear)
+# Character Sheet – Monastic
 
----
+✠ Healer, builder, reconciler. Companion: Bear.
 
-**Name:** ____________________  
-**Companion:** Bear
+## Virtues
+- Faith:  
+- Hope:  
+- Charity:  
 
----
+## Abilities
+- **Staff Strike (Faith)** – Remove 1 Step.  
+- **Healing Hands (Charity)** – Heal 1 Wound; if ally at 0, also restore 1 Hope.  
+- **Mender of Walls (Faith)** – Auto-complete 1 building/repair Step.  
+- **Voice of Peace (Hope)** – Attempt Conversion; reduce Measure by 2.  
 
-**Virtues:**  
-Faith  [ ] 0 [ ] 1 [ ] 2 [ ] 3 ( [ ] 4 )  
-Hope  [ ] 0 [ ] 1 [ ] 2 [ ] 3 ( [ ] 4 )  
-Charity [ ] 0 [ ] 1 [ ] 2 [ ] 3 ( [ ] 4 )
+## Companion – Bear
+- Bear’s Charge (combat): Remove one enemy, once per scene.  
+- Beast of Burden (non-combat): +3 Inventory slots for party.  
 
----
+## Wounds
+- [ ] [ ] [ ]  
 
-**Abilities:**  
-- Staff Strike  
-- Healing Hands  
-- Mender of Walls  
-- Voice of Peace (conversion-capable)
+## Inventory Slots – 9 (+3 with Bear)
+-  
 
----
-
-**Companion Abilities:**  
-- Bear's Charge (remove one enemy, once per scene)  
-- Beast of Burden (plus 3 slots)
-
----
-
-**Wounds:** [ ] [ ] [ ]  
-**Notes or Scars:** ________________________________________
-
----
-
-**Inventory (9 [+3]):** ___________________________________
+✠ *“By staff and stone, I heal and build.”*

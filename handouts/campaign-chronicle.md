@@ -1,7 +1,24 @@
-# Campaign Chronicle
+# Campaign Chronicle – The Living Hagiography
 
-| # | Mission Title | Year or Place | Highlights | Virtue Shifts | Relics or Allies | Consequences |
-|---|---------------|---------------|------------|----------------|------------------|--------------|
-|   |               |               |            |                |                  |              |
-|   |               |               |            |                |                  |              |
-|   |               |               |            |                |                  |              |
+✠ This book is the fellowship’s memory, a hagiography of their pilgrimage.
+
+## Missions
+- Title:  
+- Summary:  
+- Virtue Shifts:  
+- Consequences:  
+- Rewards:  
+
+## Relics
+- Name:  
+- Story of Discovery:  
+
+## Scars
+- Physical:  
+- Spiritual:  
+
+## Blessings
+- Community:  
+- Saints Invoked:  
+
+✠ *Let each mission be written as a saint’s life, that memory may strengthen hope.*

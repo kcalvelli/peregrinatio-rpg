@@ -1,36 +1,26 @@
-# Character Sheet – Navigator (Inventory 8)
+# Character Sheet – Navigator
 
----
+✠ Explorer, survivor, pathfinder. Companion: Seal.
 
-**Name:** ____________________  
-**Companion:** Seal
+## Virtues
+- Faith:  
+- Hope:  
+- Charity:  
 
----
+## Abilities
+- **Tide-Turner (Hope)** – Negate one enemy success this round.  
+- **Harpoon Thrust (Faith)** – Remove 1 Step.  
+- **Wayfinder (Faith)** – Skip 1 journey step or reduce Measure by 2.  
+- **Sea’s Whisper (Hope)** – Reduce Social Measure by 2 or attempt Conversion.  
 
-**Virtues:**  
-Faith  [ ] 0 [ ] 1 [ ] 2 [ ] 3 ( [ ] 4 )  
-Hope  [ ] 0 [ ] 1 [ ] 2 [ ] 3 ( [ ] 4 )  
-Charity [ ] 0 [ ] 1 [ ] 2 [ ] 3 ( [ ] 4 )
+## Companion – Seal
+- Seal’s Slam (combat): Remove 1 Step, once per scene.  
+- Harbor Friend (non-combat): Auto-find shelter or anchorage.  
 
----
+## Wounds
+- [ ] [ ] [ ]  
 
-**Abilities:**  
-- Tide-Turner  
-- Harpoon Thrust  
-- Wayfinder  
-- Sea's Whisper (conversion-capable)
+## Inventory Slots – 8
+-  
 
----
-
-**Companion Abilities:**  
-- Seal's Slam (remove 1 step, once per scene)  
-- Harbor Friend (auto-shelter)
-
----
-
-**Wounds:** [ ] [ ] [ ]  
-**Notes or Scars:** ________________________________________
-
----
-
-**Inventory (8):**
+✠ *“By tide and star, I guide the fellowship.”*
