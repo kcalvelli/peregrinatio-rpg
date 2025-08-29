@@ -5,21 +5,21 @@ In nomine Domini nostri Iesu Christi
 
 A narrative, Orthodox Christian-themed tabletop RPG set in Ireland, AD 870, where Faith, Hope, and Charity guide every roll.
 
-
-[[[PAGE BREAK]]]
-
+---
+**[PAGE BREAK]**
+---
 
 # Preface
 
 In nomine Domini nostri Iesu Christi.
 
-May Christ, the true Word of God, bless the work of this book. May the saints and angels intercede for all who read and play, that their journey may be guided by Faith, sustained by Hope, and crowned with Charity.
+May this book be a blessing to all who read and play, and may your journey be guided by Faith, sustained by Hope, and crowned with Charity.
 
-This is not only a game, but a pilgrimage in story: a way to remember that we are strangers and exiles upon the earth, seeking the heavenly homeland.
+This is not only a game, but a pilgrimage in story: a way to remember that we are travelers seeking a greater home.
 
-
-[[[PAGE BREAK]]]
-
+---
+**[PAGE BREAK]**
+---
 
 # Table of Contents
 
@@ -37,30 +37,30 @@ This is not only a game, but a pilgrimage in story: a way to remember that we ar
 - Appendices
 - Colophon
 
-
-[[[PAGE BREAK]]]
-
+---
+**[PAGE BREAK]**
+---
 
 # Introduction
 
 In nomine Domini nostri Iesu Christi
 
-Peregrinatio is a roleplaying game set in the year 870 AD, when Viking encampments hardened into enduring threats, monasteries were plundered, and pilgrims wandered across Christendom.
+Peregrinatio is a roleplaying game set in the year 870 AD, when Viking encampments became lasting threats, monasteries faced hardship, and pilgrims journeyed across Christendom.
 
-Its name comes from peregrinatio pro Christo, exile for Christ. Holy men and women left home and kin, sailing into unknown lands with no expectation of return, trusting only in God's providence. To live as a pilgrim was to embrace danger and sanctity, carrying the Gospel or preserving it amid chaos.
+Its name comes from peregrinatio pro Christo, exile for Christ. Holy men and women left home and kin, sailing into unknown lands with no expectation of return, trusting only in Providence. To live as a pilgrim was to embrace challenge and sanctity, carrying the Gospel or preserving it amid uncertainty.
 
-You embody such wanderers: monks driven from burned abbeys, exiles fleeing war, scribes who defend memory, and defenders who shield the weak. Together you carry a fragile flame, Faith, Hope, and Charity, through a land of ruin and trial.
+You embody such wanderers: monks driven from their homes, exiles seeking safety, scribes who defend memory, and defenders who shield the vulnerable. Together you carry a fragile flame—Faith, Hope, and Charity—through a land of trial.
 
 The game is:
 - Simple: Roll a d20 plus one Virtue.
 - Narrative: Failure always moves the story.
-- Orthodox in spirit: Prayer, fasting, confession, and the intercession of the saints sustain the weary traveler.
+- Orthodox in spirit: Prayer, fasting, and the intercession of the saints sustain the traveler.
 
 You will need: a narrator, 2 to 4 players, one d20, and paper or character sheets.
 
-
-[[[PAGE BREAK]]]
-
+---
+**[PAGE BREAK]**
+---
 
 # Chapter 1 - The Core of the Game
 
@@ -82,17 +82,18 @@ Virtue is wealth more precious than gold.
 
 ## Wounds
 - Each character has 3 Wounds.
-- At 3 Wounds the character is incapacitated until healed by Rest, a Reward, Intercession, or an ability such as Healing Hands.
+- At 3 Wounds the character is unable to act until healed by Rest, a Reward, Intercession, or an ability such as Healing Hands.
 
 ## Steps, Tracks, and Defense
 - Tasks and journeys use Progress Tracks with 3 to 5 steps. On success you fill a step; on failure the track may grow longer or trigger a setback.
-- Enemies have Steps (their durability) and Defense (the DC to affect them). On success you remove steps. At 0 steps the enemy is routed, captured, slain, or banished depending on type.
+- Enemies have Steps (their durability) and Defense (the DC to affect them). On success you remove steps. At 0 steps the enemy is routed, captured, or banished depending on type.
 
 ## Intercession of the Saints
-Once per mission, the party may call on the saints. See the Appendix for the d20 Intercession table with short invocations and effects. Intercession is scene-shaping: guarantee a success, cancel a disaster, bring miraculous aid, or restore unity and hope.
+Once per mission, the party may call on the saints. See the Appendix for the d20 Intercession table with short invocations and effects. Intercession is scene-shaping: guarantee a success, cancel a disaster, bring aid, or restore unity and hope.
 
-
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
+---
 
 
 # Chapter 2 - Characters and Companions
@@ -118,7 +119,8 @@ Hound
 - Keen Senses (non-combat): Auto-succeed at locating hidden threats or tracks.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 ## Navigator (Companion: Seal)
@@ -138,7 +140,8 @@ Seal
 - Harbor Friend (non-combat): Auto-succeed at finding shelter or safe anchorage.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 ## Monastic (Companion: Bear)
@@ -158,7 +161,8 @@ Bear
 - Beast of Burden (non-combat): The party gains plus 3 inventory slots while traveling with the Bear.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 ## Illuminator (Companion: Cat)
@@ -178,7 +182,8 @@ Cat
 - Silent Observer (non-combat): Auto-succeed at uncovering anything hidden, including motives, traps, secret stashes, and ambushes.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 # Chapter 3 - Scene Types
@@ -213,7 +218,8 @@ A final testing moment of the mission such as a storm, raid, betrayal, or supern
 Not eligible: animal attacks and all supernatural foes cannot convert.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 # Chapter 4 - Consequences and Rewards
@@ -262,7 +268,8 @@ Choose one:
 - Pilgrim's Blessing (special, once per campaign): permanently lose 1 inventory slot, traveling lighter; gain plus 1 to one Intercession effect each mission.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 # Chapter 5 - Mission Flow
@@ -274,7 +281,8 @@ Choose one:
 5. Resolution: Rest; roll once on Consequence and once on Reward; record changes and Virtue shifts.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 # Chapter 6 - Tracking the Journey
@@ -284,7 +292,8 @@ Choose one:
 - Campaign Chronicle: a living hagiography of missions, relics, scars, blessings, and saints invoked.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 # Chapter 7 - Bestiary and Adversaries
@@ -337,7 +346,8 @@ Rule: Supernatural foes cannot be overcome by mundane weapons alone. At least on
   Weakness: psalms or holy water.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 # Chapter 8 - Examples of Play
@@ -395,7 +405,8 @@ Puca: Steps 3, Defense 14.
 Result: The Puca shatters to mist and flees. Lesson: Faith-based actions banish; steel alone fails.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 # Chapter 9 - Inventory and Supplies
@@ -413,7 +424,8 @@ Party inventory equals the sum of character slots. Relics are stored here too.
 Example: Navigator rolls 3 Wood; Monastic salvages 2 Stone; Illuminator secures 1 Food. Requirements met; proceed to the building track.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 # Chapter 10 - Missions
@@ -432,7 +444,8 @@ The Appendices include two sample missions in full:
 - The Lost Relic (The Morrigan's Shade)
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 # Appendices
@@ -448,7 +461,8 @@ The Appendices include two sample missions in full:
 - Vigil: Keep watch in prayer. One PC may reroll a failed Faith test in the next scene.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 ## Historical Note - Peregrinatio pro Christo
@@ -457,7 +471,8 @@ Exile for Christ in early medieval Christianity, especially Ireland, was a way o
 In game terms: travel light, trust Providence, face peril with prayer. That is the heart of Peregrinatio.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 ## Intercession of the Saints - d20 Table with Short Prayers
@@ -488,7 +503,8 @@ Shortened adaptations for play (not full liturgical prayers). Read aloud or name
 | 20 | St. Michael the Archangel | "Saint Michael the Archangel, defend us in battle..." | A supernatural foe loses 2 steps immediately. |
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 ## Sample Mission - Rebuilding the Village
@@ -512,7 +528,8 @@ If requirements are met and the climax is survived: the church rises, manuscript
 Hooks: Travelers come seeking blessings. Raiders regroup. A fleeing villager returns with news.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 ## Sample Mission - The Lost Relic (The Morrigan)
@@ -537,7 +554,8 @@ If the relic is recovered and the shade is banished: all PCs gain plus 1 Faith, 
 Hooks: A monastery library needs defense. Other pagan powers are stirring. Crow followers shadow the party.
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 ## Quick Reference Tables
@@ -552,7 +570,8 @@ Hooks: A monastery library needs defense. Other pagan powers are stirring. Crow 
 | Supernatural Rule | Requires Faith, a relic, or Intercession for final victory. Often banished, not killed. |
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 ## Handouts (Printable)
@@ -641,7 +660,8 @@ Total Slots: ______
 - Scene Flow: Aftermath, Tasks or Social, Challenge, Climax, Resolution
 
 
-[[[PAGE BREAK]]]
+---
+**[PAGE BREAK]**
 
 
 # Colophon
