@@ -22,6 +22,17 @@
 
 ## Inventory Slots – 9 (+3 with Bear)
 -  
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 ![Monastic](../assets/images/Monastic.png)
 ✠ *“By staff and stone, I heal and build.”*

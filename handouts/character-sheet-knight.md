@@ -22,6 +22,15 @@
 
 ## Inventory Slots – 10
 -  
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 ![Knight](../assets/images/Knight.png)
 

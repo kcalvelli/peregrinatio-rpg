@@ -22,6 +22,12 @@
 
 ## Inventory Slots – 7
 -  
+-
+-
+-
+-
+-
+-
 
 ![Illuminator](../assets/images/Illuminator.png)
 
